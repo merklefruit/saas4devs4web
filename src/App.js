@@ -1,24 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter as Router } from "react-router-dom";
+import Routes from "@src/Routes";
+
+// Context
+import { Provider } from "@context/global";
+import reducer, { initialState } from "@context/reducer";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Provider initialState={initialState} reducer={reducer}>
+      <>
+        {" "}
+        {/* Add React.Suspense support */}
+        <Router>
+          <Routes />
+        </Router>
+      </>
+    </Provider>
   );
 }
 
