@@ -52,4 +52,5 @@ const Qu = styled.div`
 const CustomContent = styled.div`
   font-size: 20px;
   margin-bottom: 100px;
+  width: 100%;
 `;

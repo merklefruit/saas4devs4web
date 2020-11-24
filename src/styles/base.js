@@ -13,6 +13,7 @@ html {
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
   font-size: 16px;
+  overflow-x: hidden;
 }
 
 body {

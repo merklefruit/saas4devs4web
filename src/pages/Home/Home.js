@@ -18,7 +18,7 @@ const Home = () => {
           </h1>
           <h2>
             Free & Open source from day one. If you'd like to receive updates,
-            you can <Link to="/sub">subscribe here</Link>.
+            you can <Link to="/sub">subscribe</Link>.
           </h2>
           <Link to="/support">
             <Button whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.98 }}>
@@ -45,6 +45,8 @@ const Home = () => {
           </p>
           <hr />
         </Introduction>
+      </Container>
+      <Container>
         <Content />
       </Container>
     </Layout>
