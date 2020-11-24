@@ -50,7 +50,6 @@ const Qu = styled.div`
 `;
 
 const CustomContent = styled.div`
-  max-width: 300px;
   font-size: 20px;
   margin-bottom: 100px;
 `;
