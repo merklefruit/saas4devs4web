@@ -7,10 +7,13 @@ import { Button } from "../../styles/global";
 import Layout from "../../components/layout/Layout";
 import MDContent from "./Content";
 import Toc from "./Toc";
+import ScrollToTop from "./ScrollToTop";
 
 const Home = () => {
   return (
     <Layout>
+      <ScrollToTop />
+
       <Container>
         <Hero>
           <h1>
@@ -21,15 +24,11 @@ const Home = () => {
             Free & Open source from day one. If you'd like to receive updates,
             you can <Link to="/sub">subscribe</Link>.
           </h2>
-          <a
-            href="https://github.com/sponsors/nicolas-racchi"
-            target="_blank"
-            rel="noopener noreferrer nofollow"
-          >
+          <Link to="/support">
             <Button whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.98 }}>
-              Sponsor Me on GitHub 😍
+              Support Me 😎
             </Button>
-          </a>
+          </Link>
         </Hero>
         <Introduction id="core-knowledge">
           <h2>Introduction</h2>
