@@ -12,6 +12,6 @@ export const darkTheme = {
   primary: "#eb5e28",
   secondary: "#FFB703",
   tertiary: "#70798c",
-  background: "#001427",
-  text: "#ffffff",
+  background: "#080507",
+  text: "#e5e5e5",
 };

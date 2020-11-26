@@ -64,6 +64,7 @@ _Why should you consider building a SaaS company over something else?_
 There are a few reasons why SaaS businesses have had success in recent years. First, I need to split SaaS into two major categories: micro-SaaS and full-on SaaS. I use this distinction just to clarify that as a business model, **SaaS can be a lot of different things** and I'm going to focus more on the "micro SaaS" idea, which is suited for individuals and small groups, rather than companies with huge funding.
 
 - The first advantage is _Predictability_. It's much easier to predict revenue based on regular subscription fees rather than one-time purchases.
+
 - Another pro is _Automation_. The system works 24/7 and it makes money every day and every month. Since you're selling a digital service, you can leverage automation in a vast part of your business (customer feedback, support, engagement, etc.).
 
 _It's not all roses though. SaaS is becoming increasingly difficult to pull off. In fact, most SaaS companies fail. Read [this article](https://www.chargebee.com/blog/why-saas-companies-fail/) by John Solomon to know more about why._
@@ -100,10 +101,7 @@ This is the process which outlines the necessary steps from idea to success of m
 
 > The goal of this document is to present you with as many different view points as possible in order to give you a broader understanding of the topics. Further personal research is advised, and you can start with the sources of the documents linked in the below sections.
 
-<img height=320 src=media/joe-mannarino-v52GHdS-I38-unsplash_(1).jpg></img>
 ![](media/joe-mannarino-v52GHdS-I38-unsplash_(1).jpg)
-
-<div align=center><a href=https://unsplash.com/photos/v52GHdS-I38>Joe Mannarino</a> /Unsplash</div>
 
 ## 💡 Get Ideas for your product
 
@@ -119,6 +117,7 @@ The process goes like this. You see a problem. You quickly sketch the outline of
 Here are some example questions that you should use:
 
 - Are people currently paying for this service? If not, ditch it.
+
 - How will I get the first 25 customers? You must have a clear and easy path in mind.
 - If it works, will it be sustainable? For example, can your competitor copy your main feature in a week? If so, you'd be basically giving him free R&D.
 - Am I the person to build this business? Think of what your day-to-day life would be if you started that company with that idea. Do you like it?
@@ -139,6 +138,7 @@ _Example: Rappers who start out in the ghetto and become world stars, then loose
 ### What makes a good micro-SaaS idea? Basic guidelines (by Tyler Tringas)
 
 1. You must be either 5x cheaper or 5x better than what customers already pay for.
+
 2. Don't invent something completely new. You aren't big enough to create a market from scratch. Find something in your niche that is done inefficiently or with out-dated software, or that could be improved.
 3. Choose something not too easy to copy for your main competitors.
 4. Have a target audience. If your product could be used by anybody it propably will be used by nobody. You must know your small target niche so it'll be much easier to focus on the features that matter for them.
@@ -151,6 +151,7 @@ _Example: Rappers who start out in the ghetto and become world stars, then loose
 There's one approach which works very well with my mentees:
 
 - Figure out which "special interest groups" you are part of (beyond software engineering). That can be "aquarium owner", "coffee lover", "morning person", "diligent grandson" — the less technical, the better.
+
 - Among these "niches", find the ones that could benefit from a **transfer of technology**, like "teachers who work from home" (education niche) + "automated submission and pre-grading of homework" could work (digital document collection and rule-based checking logic), or "aquarium owner" + "nitrate cycle tracking IoT device" (hardware-enabled analytics) + "optimal light scheduling" (machine-learning-supported recommendation engine).
 
 > Do that for all the small groups you're part of, and you will find lots of ideas that aren't just "scratch-your-own-itch". They are 'scratch-an-itch-you-understand-and-know-how-to-remedy'.
@@ -161,6 +162,7 @@ There's so much debate around whether or not it is a good idea to scratch your o
 In reality, "scratch your own itch" has two different definitions, and they are heavily confused:
 
 1. Build something you want to exist (mistake!)
+
 2. Build something you've experienced as a legitimate gap in the market.
 
 I was listening to the [sales for founders podcast](https://podhunt.app/episodes/1416/zero-to-5-figure-mrr-in-just-a-few-months-by-doing-outbound-sales-with-frank-breckner-founder-of) episode with Frank Breckner, who took a product from zero to 5 figures in only five months! In the episode, Frank talks about how he saw that his company needed software like the one he wanted, he spoke to people in his network who were also having the same struggles around the problem, and went ahead and built it.
@@ -208,11 +210,7 @@ _Short excerpt from Pieter's book "MAKE book", explaining why you should start s
 
 _Sources: [good micro-saas-ideas](https://tylertringas.com/good-micro-saas-ideas/), [makebook#2](https://makebook.io/#2), [meat-grinder approach](https://tylertringas.com/business-ideas-meat-grinder/), [AskHN: looking for ideas](https://news.ycombinator.com/item?id=23290536), [find saas ideas](https://tomzaragoza.com/how-to-find-saas-ideas), [nugget](https://nugget.one/ideas), [first principles](https://fs.blog/2018/04/first-principles/)_
 
-<div align=center>
-<img height=320 src=media/daria-nepriakhina-zoCDWPuiRuA-unsplash_(1).jpg ></img>
-</div>
-
-<div align=center><a href=https://unsplash.com/photos/zoCDWPuiRuA>Daria Nepriakhina</a> /Unsplash</div>
+![](media/daria-nepriakhina-zoCDWPuiRuA-unsplash_(1).jpg)
 
 ## ✏️ Validate your Idea
 
@@ -237,6 +235,7 @@ _Going back to the "Get an Idea" section, Tyler Tringas wrote that "you must hav
 Planning isn't the most exciting task, especially at the beginning of the adventure of building a company. But there are good reasons to spend time in validating your idea.
 
 - Building a business costs time and money, the two things you probably don't have a lot of as a solo founder. Planning ahead and finding out if a project is worth your scarce resources is crucial.
+
 - If you start without a plan, you're at a way higher risk of losing motivation along the way. Firstly, you'll underestimate the time needed to build your MVP, because you haven't defined a clear scope. Secondly, if you haven't researched before starting, you'll eventually find out about a competitor which does the same thing you're building. This is extremely demotivating. Lastly, after the project is done, you are facing the reality that nobody knows of its existence and you don't have any way of marketing it and it'll end up in the graveyard of "completed but not marketed" online projects.
 - Validating your idea ahead of building can give you a lot of information which will be useful when you'll actually start coding it, and this way you'll also find your first customers.
 
@@ -261,6 +260,7 @@ Get started with brainstorming terms, keywords and potential names for your proj
 The following list is naturally not conclusive as there are many niche websites and communities you can consult, but it should be fairly comprehensive to get started. It contains a list of websites and platforms you can check to see if your idea has been built, discussed or launched. I recommend to check each of your terms on these platforms. After a few websites you will get a feeling for which ones aren’t giving you any results and you might want to leave them out for future searches. But you can also pick some promising platforms if you are only after a first impression at this point. Let’s get started validating your idea:
 
 1. Surely one of the first things that comes to mind is searching on Google. Besides similar projects what is interesting is really the kind of results you find when you search for your keywords. Do you find articles on popular platforms or niche blogs? Are these “how-to” articles? Are there older or newer discussion forums? Are the developer blogs discussing solutions for your problem? Are there blog posts by potential users/customers discussing their manual approach and solution?
+
 2. After Google, YouTube is the world’s second biggest search engine. Are there videos around this topic? Keep an eye on how many times the videos have been watched. What kind of comments are below the videos? Are the comments speaking of excitement or rather on the negative end of the spectrum? Are people mentioning service or tool in the comments related to your idea? If so, add them to your “Competitors” list.
 3. Unknown to many, Facebook is one of the top 3 search engines worldwide. Put some of your keywords and key-phrases into Facebook. Make use of the filter bar on top and focus on “Groups”, “Pages”, and “Posts”. Depending on your idea, the “Events”, “Marketplace” and “App” can also be very useful. Especially groups are interesting, check the metrics members as well as the activity. Look out for significant problems people discuss. Does your idea address these? If so, very good.
 4. Are people seeking help with the problem you are planning to address? Check Quora for questions relating to the idea. Take note of the related topics and browse the questions listed under these topics.
@@ -326,10 +326,7 @@ Compliments are warning signs. If you catch yourself or your teammates saying so
 
 _Sources: [validating product ideas](https://training.kalzumeus.com/newsletters/archive/validating_product_ideas), [business idea validation](https://peterthaleikis.com/business-idea-validation/), [how to brainstorm business ideas](https://www.indiehackers.com/post/how-to-brainstorm-great-business-ideas-ab51c3d51c),[Company of one (book)](https://www.amazon.com/Company-One-Staying-Small-Business/dp/1328972356)_
 
-<div align=center>
-<img height=320 src=media/markus-spiske-C0koz3G1I4I-unsplash_(1).jpg></img>
-</div>
-<div align=center><a href=https://unsplash.com/photos/C0koz3G1I4I>Markus Spiske</a> /Unsplash</div>
+![](media/markus-spiske-C0koz3G1I4I-unsplash_(1).jpg)
 
 ## 🛠 Build your MVP
 
@@ -348,6 +345,7 @@ Turns out, the actual _product_ that you build is only a piece of the puzzle.
 A business isn't just a product. It's a system:
 
 - A business includes a set of inbound and outbound channels that help drive customers to the product.
+
 - A business includes positioning that defines what market it is a part of.
 - A business is the pricing, payment, and customer service model it follows throughout the customer life-cycle.
 - And finally, a business includes a product.
@@ -356,6 +354,7 @@ I've learned that, instead of thinking of a business as a legal entity that coll
 Conceptually, I think you can break this up into three pieces:
 
 1. The business has a _defined market_ where customers already exist.
+
 2. A business has _reliable channels_ to reach customers in the above market.
 3. A business has a _product_ that serves customers in that market.
 
@@ -365,9 +364,7 @@ In other words, a product is only 1/3rd of the final "product".
 
 _Sources: [MVP vs MLP](https://tinytracker.co/blog/minimum-viable-product-vs-minimum-lovable-product)_
 
-<div align=center>
-<img height=320 src=media/bill-jelen-woWf_VJ7dNs-unsplash_(1).jpg ></img></div>
-<div align=center><a href=https://unsplash.com/photos/woWf_VJ7dNs >Bill Jelen</a> /Unsplash</div>
+![](media/bill-jelen-woWf_VJ7dNs-unsplash_(1).jpg)
 
 ## 🚀 Pre-Launch & Launch
 
@@ -380,6 +377,7 @@ _Sources: [MVP vs MLP](https://tinytracker.co/blog/minimum-viable-product-vs-min
 _David is a strong advocate of the "audience first" approach, which is becoming ever more common these days, and for a good reason. These tips are valuable if you're publishing anything from a blog article to a full-blown SaaS company on the Internet._
 
 1. **Give tons of free stuff away**: The Internet rewards people who teach. Share your best ideas for free, and you will attract an audience of like-minded people. Build an audience before you launch your first product.
+
 2. **Build a niche audience**: Large audiences are sexy, niche audiences are profitable. Unique creators benefit from a lack of competition and loyal audiences. Build knowledge, gain a unique perspective, and share it with the world.
 3. **Listen to your audience**: Write about what you're interested in. Then, double-down on what your audience wants to learn about. Listen for phrases they repeat and write them down. Then, once it's time to write your sales copy, you can speak to your customer directly.
 4. **Start creating now**: Start before you're ready. Some people spend their whole lives waiting for the sound of a starting gun that never goes off. Don’t wait. The thing you’ve been waiting for is… your own permission.
@@ -395,6 +393,7 @@ _David is a strong advocate of the "audience first" approach, which is becoming 
 Judging by the sheer volume of threads and comments on the topic, people expect great results from their Product Hunt launches. So is it worth a try? Let's have a look at a couple of popular writeups.
 
 - [This guy](https://medium.com/@guilhermerizzo/i-launched-my-first-product-on-product-hunt-d61d91040656) made $74.55 over four days from 1000 visitors. Doesn't seem too bad, until you compare that with a professional's daily rate and notice he also launched in six other places.
+
 - [These guys](https://medium.com/@MarieOuttier/lessons-from-launching-a-saas-tool-on-product-hunt-launch-591e8e33cbdb) got **450 upvotes from 100 sign-ups** and 2000 visitors, and no mention of paying customers. It seems the number of upvotes bears no relation to the value of your product. **Most upvoters will only read the description**.
 - [And these guys](https://blog.taskpigeon.co/launching-product-hunt-lessons/) spent a lot of effort preparing their launch and contacting everyone they could about it. They got nearly 2000 visitors, 138 signups, and again, no mention of profits.
 - I myself got over 1000 visitors. Tens of curious Hunters decided to sign up. I spent hours talking with them, it felt so good to receive their compliments. **None of them paid**.
@@ -418,6 +417,7 @@ How to get started then?
 Make a side project. Make it free and entertaining. Insert CTAs for your money-making product in it. And then launch. Here are some examples:
 
 - Curated free article
+
 - Email course
 - Newsletter
 - Non-obvious looking blog post
@@ -427,9 +427,7 @@ And after you launch make sure to stay around (or configure a monitoring tool li
 
 _Sources: [David Perell](https://twitter.com/david_perell/status/1246897903387344896), [Marker product hunt strat](https://trello.com/b/7VnxZpvO/maker-20-product-hunt-plan), [checklist of pre-launch marketing](https://www.preceptist.com/blog/pre-launch-marketing-checklist-for-saas-startups/), [launch multiple times on PH](https://syften.com/blog/post/producthunt/), [4 steps to a successful launch](https://medium.com/pminsider/4-steps-to-a-successful-saas-product-launch-c520e6765948), [build buzz on a bootstrap budget](https://microconf-vault.webflow.io/?tags=launching),[Where to launch your SaaS](https://sizle.io/how-to-maximise-traffic-to-a-bootstrapped-product-hunt-launch/), [100 places to share your startup](https://aflo.io/blog-post/100-places-to-launch-share-your-product/)_
 
-<div align=center>
-<img height=320 src=media/francesco-gallarotti-ruQHpukrN7c-unsplash-min.jpg ></img></div>
-<div align=center><a href=https://unsplash.com/photos/ruQHpukrN7c > Francesco Gallarotti </a> /Unsplash</div>
+![](media/francesco-gallarotti-ruQHpukrN7c-unsplash-min.jpg)
 
 ## 🌱 Grow organically
 
@@ -440,6 +438,7 @@ _Sources: [David Perell](https://twitter.com/david_perell/status/124689790338734
 How do you start building traction? The key is to create a _traction channel,_ that is, a way to market or distribute your product.
 
 - Don't discount **traditional media** — a great PR campaign can locate a lot of new users! In order to achieve this, consider both traditional public relations, like stories in newspaper, and unconventional PR, like flash mobs centered on your product.
+
 - Use **social media** to encourage traction and build a stable customer base. The fast way to achieve traction through social media is via _viral marketing:_ encouraging your existing users to refer to new ones. Once you start the ball rolling, it gathers its own momentum. Viral marketing is cheap and fast, but it can also be difficult to pull off. There are two factors that make it successful: first, you need as many people to recommend your product as possible, for example giving incentives (Dropbox offered users more storage space if they referred a friend); second, you need to maximize the number of referrals who go on to become users. Make your sign up process simple and fast.
 - **Online advertising** allows you to target potential customers. How? The first factors to consider are _Search Engine Marketing (SEM) and Optimization (SEO)._ SEM are the ads displayed next to search engine results; so when someone does a related search, they see your ad and are informed about the product. SEO on the other hand, involves pushing your website to the top of the results people get when they search for related words. This is important because data shows that only 10% of all clicks happen beyond the 10th search result.
 - **Partner with others** to gain more traction. Partnering with other companies in a mutually beneficial way is called _business development,_ and it's a clever way to build traction. For example, Google partnered with Netscape and Yahoo in 1999, by becoming the default search engine for the former and improving the search results of the latter. It was a win-win situation since Google enhanced these sites and it gained itself many new users in the process. Other collaboration ideas include attending trade shows, speaking engagements, parties and other offline events.
@@ -453,6 +452,7 @@ The most effective sales strategies involve trying multiple traction channels an
 The _Bullseye Framework_ is a 5 step process to help you find the best traction channels for you.
 
 1. Start by brainstorming the possible traction channels in your industry. Ask yourself questions like "Where would we get potential customer's email addresses? Which companies would we partner with and why?"
+
 2. Pull all the channels into one of 3 groups: really promising ones, possible ones, and long shots.
 3. Choose the three top options and put them on your A-list.
 4. Test these 3 options. Try to keep the tests cheap. Consider these questions: "how much will you spend in order to gain 1 customer with this channel? How many customers can you get this way? Are those the customers you want and need?"
@@ -464,9 +464,7 @@ Traction will determine the success of your business. This is why you should tak
 
 _Sources: [traction channels](https://growthrocks.com/blog/infographic-traction-channels/), Traction (book),_
 
-<div align=center>
-<img height=320 src=media/javier-allegue-barros-C7B-ExXpOIE-unsplash_(1).jpg ></img></div>
-<div align=center><a href= https://unsplash.com/photos/C7B-ExXpOIE > Javier Allegue Barros </a> /Unsplash</div>
+![](media/javier-allegue-barros-C7B-ExXpOIE-unsplash_(1).jpg)
 
 ## 🌠 What's next?
 
@@ -496,6 +494,7 @@ Note: This article focuses on bigger SaaS companies. You probably don't need all
 
 - **Brief summary of the key metrics that are discussed in the article/video:**
   - MRR/ARR: monthly or annual recurring revenue
+
   - New bookings: Net New ARR
   - Conversion rate %
   - CAC < LTV: Cost of Acquiring a Customer must be less than its LifeTime Value.
@@ -511,6 +510,7 @@ Note: This article focuses on bigger SaaS companies. You probably don't need all
 **Selling is difficult. Here are some simple tips:**
 
 1. Sales is a lot like golf. You can make it so complicated as to be impossible or you can simply walk up and hit the ball. My advice is to just go and hit the ball.
+
 2. Sales is about people and it's about problem solving. It is not about solutions or technology or chemicals or lines of code or artichokes. It's about people and it's about solving problems.
 3. People buy 4 things and 4 things only. Ever. Those 4 things are time, money, sex, and approval/peace of mind. If you try selling something other than those 4 things you'll fail.
 4. People buy aspirin always. They buy vitamins only occasionally and at unpredictable times. Sell aspirin.
@@ -541,6 +541,7 @@ Read more:
 There are many ways to publish your first product or MVP. Here are the best websites that are solely focused on giving exposure and attracting users to your website.
 
 - Product Hunt
+
 - Indie Hackers
 - Hacker News (Show HN)
 - BetaPage
@@ -564,6 +565,7 @@ If you're a web developer you can probably spin up a decent-looking landing page
 - [Softr](https://www.softr.io/): "The easiest and fastest platform for founders to build responsive websites & web-apps".
   Pros: easy & fast to use, uses building blocks to assemble the website. Great integrations.
   Price: free trial + 29$/mo
+
 - [Versoly](https://versoly.com/): "Conversion Focused Website Builder".
   Pros: optimized for SaaS, SEO editor, included form submissions and management, analytics tools.
   Price: free trial + 15$/mo
@@ -583,7 +585,8 @@ If you're a web developer you can probably spin up a decent-looking landing page
 This is another good option to enforce good design and best practices on your landing page. These themes are specifically suited for SaaS. You can also simply use them as examples for inspiration.
 
 - [Themesberg Rocket](https://demo.themesberg.com/rocket/) — 69$
-- [Inovatik](https://inovatik.com): SaaS landing page templates built with HTML — free
+
+- [Inovatik](https://inovatik.com): SaaS landing page templates built with HTML — was free, now 30$
 
 [ TODO → Stay tuned for more → [Get Updates](#-get-updates) ]
 
@@ -592,6 +595,7 @@ This is another good option to enforce good design and best practices on your la
 These websites are endless wells of examples from which to take inspiration when designing and building your landing page:
 
 - [SaasPages](https://saaspages.xyz/): popular landing pages divided into sections or "blocks" like navbar, pricing, faq, etc. Also contains useful advice & tips about copywriting and design for specific sections. Made by the creator of Versoly.
+
 - [LandingFolio](https://www.landingfolio.com/inspiration/landing-page/saas): landing page designs from across the web. Included color palettes and filter for desktop or mobile.
 - [SaasFrame](https://www.saasframe.io/): not just landing page examples. Email flows, marketing pages, product page design, blog post examples & more — 9$/mo
 - [SaaSLandingPage](https://saaslandingpage.com/): Discover the best 440 landing page examples and get inspiration for your next project.
@@ -602,6 +606,7 @@ These websites are endless wells of examples from which to take inspiration when
 These articles are useful for getting ideas and advice on key aspects of web design optimized for conversion:
 
 - [33 examples of highly effective SaaS website designs](https://webflow.com/blog/saas-website-design-examples) by Tomas Laurinavicius
+
 - [What we learned analyzing 40+ top SaaS landing pages](https://blog.chartmogul.com/saas-landing-pages/) by Ed Shelley
 
 [ TODO → Stay tuned for more → [Get Updates](#-get-updates) ]
@@ -619,6 +624,7 @@ You need to track how much traffic you're getting, and how users are interacting
 When choosing an analytics tool, there are 2 core business models to evaluate: services that are free for you but sell your customer's data, and services that cost you but are private. I highly recommend going for a private and simple tool because Google Analytics is blocked by all mainstream ad blockers.
 
 - [Google Analytics](https://marketingplatform.google.com/about/analytics/): The "standard" analytics service offered by Google. It has a learning curve and a lot of extra functionality, it doesn't focus on customer's privacy and requires you to add a cookie banner on your website. It's blocked by most ad blockers. — free
+
 - [Simple Analytics](https://simpleanalytics.com/): Like the name suggests, it's very simple. It has basic "page view" and "visitor" numbers, and that's it. You integrate it in 5 minutes in the <body> of your pages and you're done. — starts at 20$/mo
 - [UseFathom](https://usefathom.com/): Simple, light-weight, privacy focused. Tracks bounce rate and average time on site among other things. — starts at 14$/mo
 - [Clicky](https://clicky.com/): It shows how visitors interact with the site. You can see which pages they visit before signing up for a newsletter. Or how many days it takes for them to go from discovering the blog to buying a product. — free plan
@@ -632,6 +638,7 @@ When choosing an analytics tool, there are 2 core business models to evaluate: s
 Getting feedback early on is crucial for your SaaS business. Here's a list of feedback collection tools.
 
 - [Canny](https://canny.io/): Collect feedback from customers and see a list of most wanted features ranked by upvotes. — starts at 50$/mo
+
 - [Acute](https://getacute.io/): Gain actionable insight from feedback with an embedded widget. Good integrations with other services. — free plan + 25$/mo after 20 suggestions.
 - [Kampsite](https://www.kampsite.co/): Get suggestions on new features. See what features your users would pay for. Discuss ideas with your customers. Share your roadmap. — free plan + 10$/mo after 15 suggestions.
 - [Tawk.to](https://www.tawk.to): Message customers directly on your website — free plan
@@ -647,6 +654,7 @@ Many developers choose a ready-made solution to handle payments because there ar
 Most of these tools offer great free plans (up to 50k$ processed for free).
 
 - [Stripe](http://www.stripe.com): the Ferrari of online payment platforms. Requires some work to set up — free plan
+
 - [Paddle](https://paddle.com/): also handles VAT for European countries — % fee
 - [Chargebee](https://www.chargebee.com/): revenue operation for SaaS — free plan
 - [Billsby](https://www.billsby.com/): easy and accurate billing — free plan
@@ -658,8 +666,8 @@ Most of these tools offer great free plans (up to 50k$ processed for free).
 ### Miscellaneous Tools & Services
 
 - [Baremetrics](https://baremetrics.com): Revenue tracking service — starts at 50$/mo
-- [ChartMogul](https://chartmogul.com): Subscription analytics, revenue recognition — free plan
 
+- [ChartMogul](https://chartmogul.com): Subscription analytics, revenue recognition — free plan
 - [Wistia](https://wistia.com/): Display marketing videos on your website — free plan
 - [Notion](https://www.notion.so/): All-in-one workspace. Notes, checklists, timelines, etc. — free plan
 - [Quaderno](https://quaderno.io): Simple Worldwide Sales Tax Reporting, handles invoices & VAT — starts at 50$/mo
@@ -673,6 +681,7 @@ As a developer, it's your choice to choose to either develop from scratch or use
 Most SaaS have a lot of common boilerplate, like marketing pages, login/signup flow, protected routes, dashboard, admin area, CRUD services, and more.
 
 - [Bullet train](https://bullettrain.co/) — Ruby on Rails — 1500$
+
 - [Jabloon](https://www.getsjabloon.com) — Ruby on Rails — 79$
 - [Jumpstart](https://jumpstartrails.com/) — Ruby on Rails + TailwindCSS — 150$
 - [Gravity](https://usegravity.app/) — NodeJS + React — 600$
@@ -701,6 +710,7 @@ In July 2018 I quit my job and tried to build a profitable SaaS with a friend of
 We tried again and had a bit more luck: $7,8k MRR within 1 year. Here's what I wish I knew when I began:
 
 1. This thing takes time: Bootstrapping a SaaS is long. Most of the time, when you look behind you'll find: years of building an audience, several failed attempts and consistency.
+
 2. If you need 30 emails to sell a 30$/month product, the problem isn't in your emails. If you're in this situation you should ask yourself: can you increase your price? Is your audience the right one? Is your product the right one?
 3. Talk to your users early: One easy way to do it is by offering 10x what your free plan offers to people willing to spend 15 minutes on the phone with you. You'll get feedback from people who really want to use your product. We did it and it had amazing results.
 4. For every customer giving your feedback, assume that 10 others felt the same way but didn't care enough to tell you. "3" is a number I like. We start thinking about implementing a feature every time 3 users ask for the same or similar thing.
@@ -734,11 +744,13 @@ _At W3Counter, which is a web analytics tool, how do you monetize it? Aren't you
 ### [Arvid Kahl](https://twitter.com/arvidkahl) of [FeedbackPanda](https://www.feedbackpanda.com/)
 
 - Read [how he founded, ran, and sold his SaaS in under 2 years](https://thebootstrappedfounder.com/from-founding-to-exit-in-two-years-the-feedbackpanda-story/)
+
 - [His website](https://thebootstrappedfounder.com/) is a gold mine for the micro-SaaS industry.
 
 ### [Pieter Levels](https://twitter.com/levelsio) (LevelsIO) of [nomadlist](https://nomadlist.com/), [remoteok](https://remoteok.io/) and more
 
 - Read this [interview](https://levels.io/product-hunt-radio/) he did for Abadesi of ProductHunt on his website.
+
 - He published a [book](https://makebook.io/) about bootstrapping small startups.
 
 "I run Nomad List, which is not exactly a SaaS, but it is a subscription revenue based business.
@@ -753,6 +765,7 @@ BuiltWith is a free tool that allows users to type in a website address and then
 ### [Tyler Tringas](https://twitter.com/tylertringas) of [StoreMapper](http://www.storemapper.com)
 
 - He is writing an [ebook](https://tylertringas.com/micro-saas-ebook/) on how to bootstrap a micro-SaaS
+
 - Watch [this talk](https://www.youtube.com/watch?time_continue=3&v=i3d1asTrWUQ&feature=emb_logo) on how StoreMapper was born
 
 Tyler Tringas is the creator of the whole "micro-SaaS" concept. Back when he created StoreMapper, it was really unconventional for a solo founder to navigate in the SaaS world. It was perceived only as a multi-million business model.
@@ -772,6 +785,7 @@ I've [written a bit about my experience](https://blog.complice.co/post/130460454
 In some senses it worked fairly smoothly for me, but I'm not assuming it's easy. Some basic advice:
 
 - do things that don't scale
+
 - charge people from the beginning: ideally get 10 people to literally send you cash for their first month's subscription before you do much work
 - message friends directly rather than setting up a huge sales site - then gradually automate it with software
 - (before you get monthly payments running on your app, you can run them with [moonclerk](https://www.moonclerk.com/) which uses stripe, so it's a seamless transition)
@@ -808,6 +822,7 @@ My product is most suitable for businesses where working hours are a key. It is 
 **Mistakes I made:**
 
 1. The colour scheme is not really nice, it is terrible. I do not know what I thought about, but it looked nice to me. Now, a year after, I understand how it actually looks like.
+
 2. It is really complex, it is complex for business owners and complex for employees. Look at the setting! It is a monster!
 3. The main page is not handy, it is not intuitive, colours for progress bars make people confused.
 4. The planning tool is not simple, it is fine if you have 2-3-4 employees, but after this number, it is getting really annoying.
@@ -895,6 +910,7 @@ Keeping that in consideration, here are the best books for devs trying to make i
 # 🗞 Blogs & Communities
 
 - [IndieHackers](https://www.indiehackers.com/): The #1 best community for devs, makers, and solo founders. Can’t recommend it enough.
+
 - [HackerNews](https://news.ycombinator.com/): Extremely prolific forum for technology enthusiasts & developers.
 - [SaaSX](http://saasx.com): from tools to advice to best practices about SaaS and more.
 - [SaaStr](https://www.saastr.com/): the world's largest community for business software. Focus on B2B
@@ -914,6 +930,7 @@ Keeping that in consideration, here are the best books for devs trying to make i
 Did you think this document was long enough? Not even close. I’ve barely scratched the surface of what you should learn as a bootstrapped entrepreneur. This section is a list of links to additional awesome resources you may need at some point in your learning journey.
 
 - [Design Resources for Devs](https://github.com/bradtraversy/design-resources-for-developers): List of design resources, including stock photos, UIs, templates & more.
+
 - [Nodesign](https://nodesign.dev): A collection of tools for developers who have little artistic talent.
 - [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers): A curated collection of marketing articles & tools to grow your product.
 - [Unofficial Micro-Conf video directory](https://microconf-vault.webflow.io/?tags=launching): Videos sourced from MicroConf, finally free and gathered in one place.
@@ -936,15 +953,14 @@ I've collected all this information over time. I'm trying my best to credit ever
 # 🎳 Contributions
 
 If you'd like to add something to this document, please do by contacting me by email.
-Feel free to send PRs here on GitHub too. As you’ve probably noticed, a lot of sections are still marked as TODO.
-
-Email: [nicksmavic@gmail.com](mailto:nicksmavic@gmail.com)
+Feel free to send PRs and Issues on [GitHub](https://www.github.com/nicolas-racchi/saas4devs) too. As you’ve probably noticed, a lot of sections are still marked as TODO.
 
 ---
 
 # 🗺 Roadmap
 
 - Add Slack groups of prolific SaaS communities
+
 - Add a Twitter List of micro-SaaS founders & makers
 - Update Launch section
 - Add What's Next section
@@ -965,5 +981,5 @@ Full link: [https://buttondown.email/saas4devs](https://buttondown.email/saas4de
 
 # 📢 Disclaimer
 
-_This document doesn't contain any paid promotion, sponsorship, referral, tracking/affiliate link or anything of that kind._
+_This document doesn't contain any paid promotion, sponsorship, referral, tracking/affiliate link or anything of that kind. The only support that I get is from [GitHub Sponsors](https://www.github.com/nicolas-racchi)._
 `;

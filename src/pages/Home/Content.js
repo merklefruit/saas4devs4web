@@ -30,12 +30,16 @@ export default Content;
 
 /******** IMAGE **********/
 const CustomImage = ({ src, alt }) => {
-  console.log(require(`../../content/${src}`));
-  return <Im src={require(`../../content/${src}`)} alt={alt} />;
+  return <Im src={require(`@content/${src}`).default} alt={alt} />;
 };
 const Im = styled.img`
   height: 300px;
-  width: 500px;
+  width: 100%;
+  object-fit: cover;
+
+  @media (max-width: 600px) {
+    height: 200px;
+  }
 `;
 
 /******** QUOTE **********/
@@ -55,5 +59,5 @@ const Qu = styled.div`
 const CustomContent = styled.div`
   font-size: 20px;
   margin-bottom: 100px;
-  width: 100%;
+  width: 100% !important;
 `;
