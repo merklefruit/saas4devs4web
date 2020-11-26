@@ -100,9 +100,8 @@ This is the process which outlines the necessary steps from idea to success of m
 
 > The goal of this document is to present you with as many different view points as possible in order to give you a broader understanding of the topics. Further personal research is advised, and you can start with the sources of the documents linked in the below sections.
 
-<div align=center>
 <img height=320 src=media/joe-mannarino-v52GHdS-I38-unsplash_(1).jpg></img>
-</div>
+![](media/joe-mannarino-v52GHdS-I38-unsplash_(1).jpg)
 
 <div align=center><a href=https://unsplash.com/photos/v52GHdS-I38>Joe Mannarino</a> /Unsplash</div>
 

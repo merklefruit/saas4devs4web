@@ -8,5 +8,6 @@ module.exports = function override(config, env) {
     "@components": "src/components",
     "@pages": "src/pages",
     "@assets": "src/assets",
+    "@content": "src/content",
   })(config);
 };

@@ -8,7 +8,6 @@ import { Main } from "@src/content/main";
 const Content = () => {
   const renderers = {
     image: CustomImage,
-    imageReference: CustomImage,
     blockquote: CustomQuote,
   };
 
@@ -31,9 +30,13 @@ export default Content;
 
 /******** IMAGE **********/
 const CustomImage = ({ src, alt }) => {
-  return <Im src={src} alt={alt} />;
+  console.log(require(`../../content/${src}`));
+  return <Im src={require(`../../content/${src}`)} alt={alt} />;
 };
-const Im = styled.img``;
+const Im = styled.img`
+  height: 300px;
+  width: 500px;
+`;
 
 /******** QUOTE **********/
 const CustomQuote = ({ children }) => {
