@@ -9,6 +9,7 @@ const Content = () => {
   const renderers = {
     image: CustomImage,
     blockquote: CustomQuote,
+    heading: CustomHeading,
   };
 
   return (
@@ -28,7 +29,7 @@ export default Content;
 
 // Custom components for markdown rendering:
 
-/******** IMAGE **********/
+/******** IMAGES **********/
 const CustomImage = ({ src, alt }) => {
   return <Im src={require(`@content/${src}`).default} alt={alt} />;
 };
@@ -42,7 +43,7 @@ const Im = styled.img`
   }
 `;
 
-/******** QUOTE **********/
+/******** QUOTES **********/
 const CustomQuote = ({ children }) => {
   return <Qu>{children}</Qu>;
 };
@@ -56,8 +57,32 @@ const Qu = styled.div`
   }
 `;
 
+/******** HEADINGS (for custom scroll links) **********/
+const CustomHeading = ({ level, children }) => {
+  return (
+    <>
+      {level === 1 ? (
+        <h1 id={children[0].props.value}>{children}</h1>
+      ) : level === 2 ? (
+        <h2 id={children[0].props.value}>{children}</h2>
+      ) : level === 3 ? (
+        <h3 id={children[0].props.value}>{children}</h3>
+      ) : level === 4 ? (
+        <h4 id={children[0].props.value}>{children}</h4>
+      ) : level === 5 ? (
+        <h5 id={children[0].props.value}>{children}</h5>
+      ) : (
+        <h6 id={children[0].props.value}>{children}</h6>
+      )}
+    </>
+  );
+};
+
 const CustomContent = styled.div`
   font-size: 20px;
   margin-bottom: 100px;
-  width: 100% !important;
+
+  @media (max-width: 850px) {
+    font-size: 18px;
+  }
 `;

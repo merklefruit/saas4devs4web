@@ -5,7 +5,8 @@ import { Container } from "@styles/global";
 import { Button } from "../../styles/global";
 
 import Layout from "../../components/layout/Layout";
-import Content from "./Content";
+import MDContent from "./Content";
+import Toc from "./Toc";
 
 const Home = () => {
   return (
@@ -30,7 +31,7 @@ const Home = () => {
             </Button>
           </a>
         </Hero>
-        <Introduction>
+        <Introduction id="core-knowledge">
           <h2>Introduction</h2>
           <p>
             This document is a curation of useful resources & advice about the
@@ -50,9 +51,22 @@ const Home = () => {
           <hr />
         </Introduction>
       </Container>
-      <Container>
-        <Content />
-      </Container>
+
+      <ContentSection>
+        <Container id="desktop">
+          <Grid>
+            <Sidebar>
+              <Toc />
+            </Sidebar>
+            <Content>
+              <MDContent />
+            </Content>
+          </Grid>
+        </Container>
+        <Container id="mobile">
+          <MDContent />
+        </Container>
+      </ContentSection>
     </Layout>
   );
 };
@@ -82,4 +96,36 @@ const Introduction = styled.div`
   hr {
     border: 1px solid ${({ theme }) => theme.tertiary};
   }
+`;
+
+const ContentSection = styled.section`
+  #desktop {
+    display: block;
+    @media (max-width: 850px) {
+      display: none;
+    }
+  }
+
+  #mobile {
+    overflow-x: hidden;
+    display: none;
+    @media (max-width: 850px) {
+      display: block;
+    }
+  }
+`;
+
+const Grid = styled.div`
+  display: grid;
+  grid-template-areas: "sidebar content";
+  grid-template-columns: 250px 1fr;
+`;
+
+const Sidebar = styled.div`
+  grid-area: sidebar;
+`;
+
+const Content = styled.div`
+  grid-area: content;
+  width: 100%;
 `;

@@ -13,14 +13,20 @@ html {
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
   font-size: 16px;
+  
+  @media(max-width: 800px) {
   overflow-x: hidden;
+  }
 }
 
 body {
   font-family: "DM Sans";
   background: ${(props) => props.theme.background};
   overscroll-behavior: none;
+
+  @media(max-width: 800px) {
   overflow-x: hidden;
+  }
 
   color: ${({ theme }) => theme.text};
 
