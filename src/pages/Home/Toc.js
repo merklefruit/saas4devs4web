@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import { Link } from "react-scroll";
 
-import { TwitterLogo, FacebookLogo, EnvelopeSimple } from "phosphor-react";
+import { TwitterLogo, FacebookLogo, LinkedinLogo } from "phosphor-react";
 
 const Toc = () => {
   return (
@@ -26,14 +26,26 @@ const Toc = () => {
       <div id="social">
         <h3>Share 😜</h3>
         <div className="icons">
-          <a href="/" target="_blank" rel="noopener noreferrer nofollow">
+          <a
+            href="https://twitter.com/intent/tweet?text=If%20you%27re%20interested%20in%20SaaS,%20you%20should%20read%20this%20curation%20of%20awesome%20resources%20for%20Solo%20Founders%20by%20@NicolasRacchi&url=https://saas4devs.tech"
+            target="_blank"
+            rel="noopener noreferrer nofollow"
+          >
             <TwitterLogo size={38} />
           </a>
-          <a href="/" target="_blank" rel="noopener noreferrer nofollow">
+          <a
+            href="https://www.facebook.com/sharer/sharer.php?u=https://saas4devs.tech"
+            target="_blank"
+            rel="noopener noreferrer nofollow"
+          >
             <FacebookLogo size={38} />
           </a>
-          <a href="/" target="_blank" rel="noopener noreferrer nofollow">
-            <EnvelopeSimple size={38} />
+          <a
+            href="https://www.linkedin.com/sharing/share-offsite/?url=https://saas4devs.tech"
+            target="_blank"
+            rel="noopener noreferrer nofollow"
+          >
+            <LinkedinLogo size={38} />
           </a>
         </div>
       </div>
