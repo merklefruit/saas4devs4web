@@ -1,6 +1,10 @@
 import styled from "styled-components";
 import { Link } from "react-scroll";
 
+// For likes
+// import { motion } from "framer-motion";
+// import { Heart } from "phosphor-react";
+
 import { TwitterLogo, FacebookLogo, LinkedinLogo } from "phosphor-react";
 
 const Toc = () => {
@@ -23,6 +27,7 @@ const Toc = () => {
         <CLink to="🗞 Blogs & Communities">9. Blogs & Communities</CLink>
         <CLink to="🧱 Extra Material">10. Extra material</CLink>
       </div>
+
       <div id="social">
         <h3>Share 😜</h3>
         <div className="icons">
@@ -49,6 +54,18 @@ const Toc = () => {
           </a>
         </div>
       </div>
+
+      {/* Todo: add likes (requires a database)*/}
+      {/* <div id="likes">
+        <p>+204</p>
+        <motion.button
+          onClick={() => handleLike()}
+          whileHover={{ scale: 1.1, rotate: 0 }}
+          whileTap={{ scale: 0.9, rotate: -10 }}
+        >
+          <Heart size={50} />
+        </motion.button>
+      </div> */}
     </Sidebar>
   );
 };
@@ -136,6 +153,49 @@ const Sidebar = styled.div`
         cursor: pointer;
         color: ${({ theme }) => theme.primary};
       }
+    }
+  }
+
+  #likes {
+    margin-top: 20px;
+    margin-right: 20px;
+    display: flex;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+
+    padding: 15px;
+    border: 3px solid ${({ theme }) => theme.secondary};
+    border-radius: 6px;
+    border-bottom-left-radius: 12px;
+    border-top-left-radius: 12px;
+    border-left: 5px solid ${({ theme }) => theme.secondary};
+    box-shadow: 2px 2px 4px 2px rgba(0, 0, 0, 0.1);
+
+    button {
+      margin: 0;
+      padding: 5px 0 0 0;
+      background: none;
+      border: none;
+      &:hover {
+        cursor: pointer;
+      }
+      &:focus {
+        outline: none;
+      }
+    }
+
+    svg {
+      color: red;
+      margin: 0;
+      padding: 0;
+    }
+
+    p {
+      font-family: "Poppins";
+      font-size: 1.5rem;
+      font-weight: 500;
+      margin: 0 8px 0 0;
     }
   }
 `;

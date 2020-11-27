@@ -4,4 +4,6 @@
 
 - Add table of content on mobile
 
-- Add subscription page
+- Add roadmap
+
+- Think about adding a blog section if the site gets traction

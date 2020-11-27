@@ -1,0 +1,5 @@
+[build]
+  command = "yarn build"
+  base = "/"
+  publish = "build/"
+  functions = "lambda/"
