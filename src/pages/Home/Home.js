@@ -22,7 +22,15 @@ const Home = () => {
           </h1>
           <h2>
             Free & Open source from day one. If you'd like to receive updates,
-            you can <Link to="/sub">subscribe</Link>.
+            you can{" "}
+            <a
+              href="https://buttondown.email/saas4devs"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              subscribe
+            </a>
+            .
           </h2>
           <Link to="/support">
             <Button whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.98 }}>
@@ -44,8 +52,15 @@ const Home = () => {
               Nicolas Racchi
             </a>
             . If you like this content, I suggest you to{" "}
-            <Link to="/sub">subscribe</Link> to the email updates that I send
-            whenever I add new content. It usually happens once a month.
+            <a
+              href="https://buttondown.email/saas4devs"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              subscribe
+            </a>{" "}
+            to the email updates that I send whenever I add new content. It
+            usually happens once a month.
           </p>
           <hr />
         </Introduction>
