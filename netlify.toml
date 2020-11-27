@@ -3,3 +3,8 @@
   base = "/"
   publish = "build/"
   functions = "lambda/"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
