@@ -47,8 +47,22 @@ const Support = () => {
         </Hero>
         <Illustration>
           <Savings />
+
+          <Sponsors>
+            <h2>Current & past Sponsors:</h2>
+            <p>
+              <a
+                href="https://github.com/Inovatik"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                @Inovatik
+              </a>
+            </p>
+          </Sponsors>
         </Illustration>
       </Container>
+      <Container></Container>
     </Layout>
   );
 };
@@ -72,10 +86,27 @@ const Hero = styled.div`
 `;
 
 const Illustration = styled.div`
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  @media (max-width: 700px) {
+    grid-template-columns: 1fr;
+  }
+
   margin-top: 50px;
   svg {
     margin: 0 auto;
     display: block;
-    max-width: 500px;
+    max-width: 400px;
+  }
+`;
+
+const Sponsors = styled.div`
+  @media (max-width: 700px) {
+    margin-top: 40px;
+    text-align: center;
+  }
+
+  p {
+    font-size: 1.25rem;
   }
 `;
