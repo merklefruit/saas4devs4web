@@ -742,13 +742,13 @@ _At W3Counter, which is a web analytics tool, how do you monetize it? Aren't you
 
 "W3Counter is freemium. People pay between $5 and $50 per month for extra features. It's really not hard to compete with Google Analytics (especially when you start before GA existed). There are a ton of large companies making millions and billions in the analytics space".
 
-### [Arvid Kahl](https://twitter.com/arvidkahl) of [FeedbackPanda](https://www.feedbackpanda.com/)
+### Arvid Kahl of [FeedbackPanda](https://www.feedbackpanda.com/)
 
 - Read [how he founded, ran, and sold his SaaS in under 2 years](https://thebootstrappedfounder.com/from-founding-to-exit-in-two-years-the-feedbackpanda-story/)
 
 - [His website](https://thebootstrappedfounder.com/) is a gold mine for the micro-SaaS industry.
 
-### [Pieter Levels](https://twitter.com/levelsio) (LevelsIO) of [nomadlist](https://nomadlist.com/), [remoteok](https://remoteok.io/) and more
+### Pieter Levels (LevelsIO) of [nomadlist](https://nomadlist.com/), [remoteok](https://remoteok.io/) and more
 
 - Read this [interview](https://levels.io/product-hunt-radio/) he did for Abadesi of ProductHunt on his website.
 
@@ -763,7 +763,7 @@ Nomad List is a website where you can find cities in where you can travel and wo
 
 BuiltWith is a free tool that allows users to type in a website address and then discover the technology that is powering that website. After some time, people started asking for niche-specific data, saying that they would pay for it. Gary then realized the commercial potential of BuiltWith and started a SaaS by implementing a membership subscription model.
 
-### [Tyler Tringas](https://twitter.com/tylertringas) of [StoreMapper](http://www.storemapper.com)
+### Tyler Tringas of [StoreMapper](http://www.storemapper.com)
 
 - He is writing an [ebook](https://tylertringas.com/micro-saas-ebook/) on how to bootstrap a micro-SaaS
 
@@ -771,11 +771,11 @@ BuiltWith is a free tool that allows users to type in a website address and then
 
 Tyler Tringas is the creator of the whole "micro-SaaS" concept. Back when he created StoreMapper, it was really unconventional for a solo founder to navigate in the SaaS world. It was perceived only as a multi-million business model.
 
-### [Nishant Agrawal](http://ncrafts.net/about/) of [Formcrafts](http://formcrafts.com)
+### Nishant Agrawal of [Formcrafts](http://formcrafts.com)
 
 "I run Formcraft and formcraft-wp and both are profitable, netting over 150k+ a year in total (posted in July 2016). They were my side projects when I was in accounting school."
 
-### [Malcolm Ocean](https://twitter.com/malcolm_ocean) of [Complice](http://complice.co)
+### Malcolm Ocean of [Complice](http://complice.co)
 
 "I started Complice 2.5 years ago while in university, with the goal of making enough money by graduation that I didn't have to get a job. I succeeded at that, and have now grown it to about twice that, and it continues to grow, mostly via word of mouth and a few communities.
 

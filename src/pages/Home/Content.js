@@ -82,6 +82,12 @@ const CustomContent = styled.div`
   font-size: 20px;
   margin-bottom: 100px;
 
+  a {
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
   @media (max-width: 850px) {
     font-size: 18px;
   }
