@@ -646,6 +646,7 @@ Getting feedback early on is crucial for your SaaS business. Here's a list of fe
 - [Crisp](https://crisp.chat/en/): Live chat + ticket handling software — free plan
 - [Intercom](https://www.intercom.com/): The most popular live chat software for customer engagement & support — complex pricing
 - [Letterbase](https://letterbase.io): Simple Live chat for small businesses. Simple to use & privacy friendly — 9$/mo
+- [Customerly](https://www.customerly.io/): Live Chat & Marketing automation - free plan
 
 ### Recurring Payment Platforms
 
