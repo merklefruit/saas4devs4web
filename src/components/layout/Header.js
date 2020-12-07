@@ -61,7 +61,7 @@ const CustomHeader = styled.div`
 
   .logo {
     span {
-      font-size: 1.5rem;
+      font-size: 1.6rem;
     }
   }
 

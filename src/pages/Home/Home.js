@@ -21,8 +21,15 @@ const Home = () => {
             their SaaS business.
           </h1>
           <h2>
-            Free & Open source from day one. If you'd like to receive updates,
-            you can{" "}
+            Free &{" "}
+            <a
+              href="https://www.github.com/nicolas-racchi/SaaS4Devs"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Open source
+            </a>{" "}
+            from day one. If you'd like to receive updates, you can{" "}
             <a
               href="https://buttondown.email/saas4devs"
               target="_blank"
