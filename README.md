@@ -7,3 +7,5 @@
 - Add roadmap
 
 - Think about adding a blog section if the site gets traction
+
+- Brizy.cloud popup signup form: add notifications on dashboard

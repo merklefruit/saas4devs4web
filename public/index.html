@@ -45,4 +45,27 @@
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
   </body>
+  <footer>
+    <script>
+      !(function (p, n, o) {
+        if (!(o = n.getElementById("brz-external-popup")))
+          return (
+            ((o = n.createElement("script")).async = 1),
+            (o.id = "brz-external-popup"),
+            (o.src = "https://s3.amazonaws.com/brizy.cloud/popups/popup.js"),
+            (o.onload = e),
+            void n.body.appendChild(o)
+          );
+        function e(n, e) {
+          p.brzExternalPopup
+            ? p.brzExternalPopup("https://lime4584094.brizy.site")
+            : ((n = o.onload),
+              (o.onload = function () {
+                n(), p.brzExternalPopup("https://lime4584094.brizy.site");
+              }));
+        }
+        e();
+      })(window, document);
+    </script>
+  </footer>
 </html>
