@@ -6,6 +6,7 @@ import { Link } from "react-scroll";
 // import { motion } from "framer-motion";
 // import { Heart } from "phosphor-react";
 
+// Icons
 import {
   TwitterLogo,
   FacebookLogo,
@@ -345,7 +346,6 @@ const Sidebar = styled.div`
 
   #social {
     margin-top: 20px;
-    height: 90px;
     display: block;
     margin-right: 20px;
     padding: 15px;

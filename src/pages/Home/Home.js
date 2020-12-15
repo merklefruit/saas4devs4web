@@ -4,9 +4,11 @@ import styled from "styled-components";
 import { Container } from "@styles/global";
 import { Button } from "../../styles/global";
 
+// Components
 import Layout from "../../components/layout/Layout";
 import MDContent from "./Content";
 import Toc from "./Toc";
+import TocMobile from "./TocMobile";
 import ScrollToTop from "./ScrollToTop";
 
 const Home = () => {
@@ -14,6 +16,7 @@ const Home = () => {
     <Layout>
       <ScrollToTop />
 
+      {/* Hero + Introduction */}
       <Container>
         <Hero>
           <h1>
@@ -73,6 +76,7 @@ const Home = () => {
         </Introduction>
       </Container>
 
+      {/* Markdown content */}
       <ContentSection>
         <Container id="desktop">
           <Grid>
@@ -84,7 +88,9 @@ const Home = () => {
             </Content>
           </Grid>
         </Container>
+
         <Container id="mobile">
+          {/* <TocMobile /> */}
           <MDContent />
         </Container>
       </ContentSection>
