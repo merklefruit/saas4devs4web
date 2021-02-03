@@ -1,4 +1,4 @@
-# s4d web 3
+# SaaS4Devs Website
 
 ## To do
 
@@ -6,6 +6,6 @@
 
 - Add roadmap
 
-- Think about adding a blog section if the site gets traction
+- Think about adding a blog section
 
-- Brizy.cloud popup signup form: add notifications on dashboard
+- Adding reviews
